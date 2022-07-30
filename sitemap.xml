@@ -1,100 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-<url>
-  <loc>https://www.wintahk.com/</loc>
-  <lastmod>2021-01-07T12:58:38+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.wintahk.com/index.html</loc>
-  <lastmod>2021-01-07T12:58:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.wintahk.com/roof-waterproofing.html</loc>
-  <lastmod>2021-01-07T12:58:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.wintahk.com/exteriorwall.html</loc>
-  <lastmod>2021-01-07T12:58:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.wintahk.com/PUgrouting.html</loc>
-  <lastmod>2021-01-07T12:58:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.wintahk.com/spalling.html</loc>
-  <lastmod>2021-01-07T12:58:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.wintahk.com/toilet.html</loc>
-  <lastmod>2021-01-07T12:58:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.wintahk.com/waterproofing-test.html</loc>
-  <lastmod>2021-01-07T12:58:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.wintahk.com/job-reference.html</loc>
-  <lastmod>2021-01-07T12:58:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.wintahk.com/service-flow.html</loc>
-  <lastmod>2021-01-07T12:58:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.wintahk.com/information.html</loc>
-  <lastmod>2021-01-07T12:58:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.wintahk.com/contact.html</loc>
-  <lastmod>2021-01-07T12:58:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.wintahk.com/information1.html</loc>
-  <lastmod>2021-01-07T12:58:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wintahk.com/information2.html</loc>
-  <lastmod>2021-01-07T12:58:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wintahk.com/information3.html</loc>
-  <lastmod>2021-01-07T12:58:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wintahk.com/information4.html</loc>
-  <lastmod>2021-01-07T12:58:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wintahk.com/information5.html</loc>
-  <lastmod>2021-01-07T12:58:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.wintahk.com/information6.html</loc>
-  <lastmod>2021-01-07T12:58:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://www.wintahk.com/index.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wintahk.com/service-flow.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wintahk.com/roof-waterproofing.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wintahk.com/PUgrouting.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wintahk.com/spalling.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wintahk.com/toilet.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wintahk.com/waterproofing-test.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wintahk.com/job-reference.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wintahk.com/information.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wintahk.com/contact.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wintahk.com/information1.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wintahk.com/information2.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wintahk.com/information3.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wintahk.com/information4.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wintahk.com/information5.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wintahk.com/information6.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wintahk.com/exteriorwall.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wintahk.com/reroofing.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wintahk.com/toilet-waterproof.html</loc>
+	</url>
 </urlset>
