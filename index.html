@@ -39,6 +39,28 @@
   gtag('config', 'AW-10981454760');
 </script>
 
+<!-- Event snippet for call conversion page -->
+<script>
+window.addEventListener('load', function(event) {
+document.querySelectorAll('a[href="tel:+85223844800"]').forEach(function(e){
+    e.addEventListener('click', function(e){
+       gtag('event', 'conversion', {'send_to': 'AW-10981454760/VlNqCP2JqY8YEKjnrvQo'});
+    });
+  });
+});
+</script>
+
+<!-- Event snippet for whatsapp conversion page -->
+<script>
+window.addEventListener('load', function(event) {
+document.querySelectorAll('a[href="https://api.whatsapp.com/send?phone=85223844800"]').forEach(function(e){
+    e.addEventListener('click', function(e){
+      gtag('event', 'conversion', {'send_to': 'AW-10981454760/5AyRCKeEqY8YEKjnrvQo'});
+    });
+  });
+});
+</script>
+
 <!-- Event snippet for 網頁瀏覽 conversion page -->
 <script>
   gtag('event', 'conversion', {'send_to': 'AW-10981454760/GXpNCOus8tsDEKjnrvQo'});
